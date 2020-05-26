@@ -1,0 +1,14 @@
+
+There is currently no support for negative numbers
+  all the support that exsist right now is adding/subtracting/multiplying
+  positive numbers.
+
+All that would be required to impliment operations on negative numbers would be to
+  use the rules on each operator to determine the positive equivalent of a negative
+  operation such as
+
+
+Division still needs to be though about an implimented in some way
+1.)
+   Probably need to impliment it by using subtraction to see if 2 numbers
+   are divisible
